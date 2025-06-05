@@ -1,30 +1,39 @@
 # 📚 Paper Reading Notes | 论文阅读记录
 
-这是我对部分高质量论文的学习与整理记录，包括原文、中文翻译、阅读笔记和汇报PPT。
+欢迎来到我的论文阅读记录仓库！本项目旨在系统整理我在计算机视觉、行人重识别、迁移学习等领域阅读的重要论文内容，包括：
 
----
+- 原始论文 PDF
+- 中文翻译版本
+- 汇报用 PPT 演示文稿
 
-## 📄 已整理论文
+
+
+
+## 📄 已整理的论文列表
 
 | 序号 | 论文标题 | 年份 | 方向 | 链接 |
-|------|----------|------|------|------|
-| 1 | Tackling Domain Shifts in Person Re-Identification: A Survey and Analysis | 2024 | ReID / Domain Adaptation | [查看](./2025%E5%B9%B46%E6%9C%885%E6%97%A5/) |
-| 2 | ... | ... | ... | ... |
+|:--:|:---------------------------------------------|:----:|:------------------------:|:------:|
+| 1 | Tackling Domain Shifts in Person Re-Identification: A Survey and Analysis | 2024 | Person ReID / Domain Adaptation | [📂 进入](./2025%E5%B9%B46%E6%9C%885%E6%97%A5/) |
 
----
+> 📌 更多论文整理中，敬请期待……
 
-## 📌 文件说明
 
-每个论文文件夹中包含：
 
-| 文件名 | 说明 |
+## 📁 文件结构说明
+
+每篇论文一个独立文件夹，包含以下文件：
+
+| 文件名 | 内容 |
 |--------|------|
-| [📄 原文论文 PDF](./2025%E5%B9%B46%E6%9C%885%E6%97%A5/19_Nguyen_Tackling_Domain_Shifts_in_Person_Re-Identification_A_Survey_and_Analysis_CVPRW_2024_paper(1).pdf) | 官方发表版本 |
-| [🇨🇳 中文翻译版 PDF](./2025%E5%B9%B46%E6%9C%885%E6%97%A5/19_Nguyen_Tackling_Domain_Shifts_in_Person_Re-Identification_A_Survey_and_Analysis_CVPRW_2024_paper(1)_%E7%BF%BB%E8%AF%91%E7%89%88.pdf) | 翻译版本，方便学习理解 |
-| [🎓 汇报PPT PDF](./2025%E5%B9%B46%E6%9C%885%E6%97%A5/%E8%AE%BA%E6%96%87%E6%B1%87%E6%8A%A5ppt%E2%80%94%E2%80%94%E5%9F%9F%E5%81%8F%E7%A7%BB.pdf) | 自制汇报讲解用演示文稿 |
+| 原文 PDF | 论文的官方英文版本 |
+| 中文翻译 PDF | 手工或辅助翻译版本，便于理解 |
+| 汇报 PPT | 自制组会/分享用讲解幻灯片 |
+| `README.md` | 对该论文的简要介绍和导航指引 |
 
 ---
 
-## 🧠 Tips
+## ✍️ 关于我
 
-欢迎引用、下载或参考，也欢迎你一起交流学习 🧩
+该仓库由我个人维护，记录科研学习中的点滴。欢迎引用、Star ⭐，或提出建议/交流想法。
+
+📮 如果你也在读类似方向的论文，欢迎联系我一起学习！
