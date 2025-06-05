@@ -13,7 +13,7 @@
 
 | 序号 | 论文标题 | 年份 | 方向 | 链接 |
 |:--:|:---------------------------------------------|:----:|:------------------------:|:------:|
-| 1 | Tackling Domain Shifts in Person Re-Identification: A Survey and Analysis | 2024 | Person ReID / Domain Adaptation | [📂 进入](./2025%E5%B9%B46%E6%9C%885%E6%97%A5/) |
+| 1 | Tackling Domain Shifts in Person Re-Identification: A Survey and Analysis | 2024 | Person ReID / Domain Adaptation | [📂 进 入](./2025%E5%B9%B46%E6%9C%885%E6%97%A5/) |
 
 > 📌 更多论文整理中，敬请期待……
 
